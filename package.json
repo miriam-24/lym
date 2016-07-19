@@ -1,0 +1,27 @@
+{
+  "name": "lym",
+  "version": "0.0.0",
+  "description": "oath de aprendizaje del uso del driver de mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriam-24/lym.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "driver",
+    "node"
+  ],
+  "author": "miriiamcf@@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miriam-24/lym/issues"
+  },
+  "homepage": "https://github.com/miriam-24/lym#readme",
+  "dependencies": {
+    "mongodb": "^2.2.4"
+  }
+}
